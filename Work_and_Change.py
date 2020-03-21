@@ -1,7 +1,7 @@
 import time
 import os
 focusing_duration=int(input("how many seconds do yu want to work? : ")) 
-changing_time = int(input("how many seconds do yu want when changing your task? : "))
+changing_time = int(input("how many seconds do yu want to rest? : "))
 
 
 while True: #infinite loop
